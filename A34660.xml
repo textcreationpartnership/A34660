@@ -1,0 +1,469 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An abstract or the lawes of New England as they are novv established</title>
+            <author>Cotton, John, 1584-1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34660</idno>
+            <idno type="STC">Wing C6408</idno>
+            <idno type="STC">ESTC R9081</idno>
+            <idno type="EEBO-CITATION">12531972</idno>
+            <idno type="OCLC">ocm 12531972</idno>
+            <idno type="VID">62776</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34660)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 62776)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 310:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An abstract or the lawes of New England as they are novv established</title>
+                  <author>Cotton, John, 1584-1652.</author>
+               </titleStmt>
+               <extent>[2], 15, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coules and W. Ley ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title reads: An abstract of the laws of New England.</note>
+                  <note>This abstract was proposed by John Cotton but never adopted as the law of Massachusetts. Cf. Mass. hist. soc., Collections, 3rd series, v. 8, p. 191-215; Winsor, Nar. &amp; crit. hist., 1885, v. 3, p. 349-350; Whitmore, Bibliographical sketch, 1890, p. 1. "In my opinion the Abstract is nothing more than Moses's Judicialls, and dates from 1636 rather than from 1641"--Ford, W.C. Proceedings Mass. hist. soc., 2nd series, v. 16, p. 280.</note>
+                  <note>Reproduction of original in University of Michigan Libraries.</note>
+                  <note>Marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Law --  Massachusetts.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:62776:1"/>
+            <pb facs="tcp:62776:1"/>
+            <p>AN ABSTRACT OR THE LAWES OF NEW ENGLAND, As they are novv eſtablished.</p>
+            <figure>
+               <figDesc>two figures, one holding an olive branch or palm, with letters T and P</figDesc>
+            </figure>
+            <p>LONDON, Printed for <hi>F. Coules,</hi> and <hi>W. Ley</hi> at Paules Chain, 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:62776:2"/>
+            <pb n="1" facs="tcp:62776:2"/>
+            <head>AN ABSTRACT Of the Lavves of Nevv ENGLAND.</head>
+            <div n="1" type="chapter">
+               <head>CHAP. I. <hi>Of Magiſtrates.</hi>
+               </head>
+               <p n="1">1 <seg rend="decorInit">F</seg>Irſt, All Magiſtrates are to be choſen.
+<note place="margin">Deut. 1.13.17.15. Ex. 18.21.</note>
+               </p>
+               <p>Firſt, By the free Burgeſſes.</p>
+               <p>Secondly, Out of the free Burgeſſes.</p>
+               <p>Thirdly, Out of the ableſt men and moſt approved amongſt them.</p>
+               <p>Fourthly,
+<note place="margin">Eccl. 10.17. Ier. 30.21.</note> Out of the ranck of Noble men or Gentle<g ref="char:EOLhyphen"/>men among them, the beſt that God ſhall ſend into the Countrey, if they be qualified with gifts fit for Government, either eminent above others, or not inferior to others.</p>
+               <p n="2">2 The Governor hath power with the Aſſiſtants to governe the whole Countrey, according to the Laws eſtabliſhed hereafter menti<g ref="char:EOLhyphen"/>oned; He hath power of himſelfe, and in his abſence the Deputy Go<g ref="char:EOLhyphen"/>vernor, to moderate all publike actions of the Common-wealth, as</p>
+               <p>Firſt, To ſend out warrants for the calling of the generall Court.
+<note place="margin">Ioſh. 24.1.</note>
+               </p>
+               <p>Secondly, To order and ranſacke all actions in the Court where he ſitteth: as, to gather Suffrages and Voyces, and to pronounce Sen<g ref="char:EOLhyphen"/>tences according to the greater part of them.</p>
+               <p n="3">3 The power of the Governor with the reſt of the Counſellors, is</p>
+               <p>Firſt,
+<note place="margin">Num. 11.4 to 16.</note> To conſult and provide for the maintenance of the State and People.</p>
+               <p>Secondly,
+<note place="margin">Ex. 18.22. Deu. 17.8, 9. Ex. 32.25, 27.</note> To direct in all matters wherein Appeale is made to them from inferiour Courts.</p>
+               <p>Thirdly, To preſerve Religion.</p>
+               <pb n="2" facs="tcp:62776:3"/>
+               <p n="4">4 To overſee the Forts and Munition of the Countrey,
+<note place="margin">2 Cor. 19.11.32 23.45. 6. Ex. 17.9. Prov. 24.6</note> and to take order for the protection of the Countrey from forraine invaſion, or inteſtine ſedition, as need ſhall require, with conſent of the people to enterpriſe wars.</p>
+               <p>And becauſe theſe great affaires of the State cannot be attended, nor adminiſtred, if they be after changed; therefore the Counſellors are to be choſen for life,
+<note place="margin">1 Kings 12.6.</note> unleſſe they give juſt cauſe of removall, which if they do, than they to be removed by the Generall Court.</p>
+               <p n="4">4 The power of the Governor,
+<note place="margin">Ex. 18.22.</note> ſitting with the Counſellors and Aſſiſtants, is to heare and determine all cauſes whether Civill or Criminall,
+<note place="margin">Deu. 1.16.17.</note> which are brought before him through the whole Com<g ref="char:EOLhyphen"/>mon-wealth: Yet reſerving liberty of Appeale from him to the ge<g ref="char:EOLhyphen"/>nerall Court.</p>
+               <p n="5">5 Every Town is to have Iudges within themſelves,
+<note place="margin">Deu. 16.18</note> whoſe pow<g ref="char:EOLhyphen"/>er ſhall be once in the month, or in three months at the furtheſt to heare and determine both Civill Cauſes and Pleas of leſſe value, and crimes alſo, which are not capitall: Yet reſerving liberty of Appeale to the Court of Governor and Aſſiſtants.</p>
+               <p n="6">6 For the better expedition and execution of Iuſtice, and of all af<g ref="char:EOLhyphen"/>faires incident unto every Court.
+<note place="margin">Deu. 16.18 Ier. 36.10. &amp; 12.</note> Every Court ſhall have certaine Officers, as a Secretary to inroll all the Acts of the Court; And be<g ref="char:EOLhyphen"/>ſides Miniſters of Iuſtice, to attach, and fetch, and ſet perſons before the Magiſtrates; and alſo to execute the Sentence of the Court upon offenders: And for the ſame end, it ſhall be lawfull for the Governor or any one or two of the Counſellors,
+<note place="margin">1 Sam. 20.24.25.</note> or Aſſiſtants, or Iudges, to give warrant to an Officer, to fetch any delinquent before them, and to examine the cauſe,
+<note place="margin">Acts 5.26:27.</note> and if he be found culpable of that crime, to take order by ſurety or ſafe cuſtody for his apparance at the Court.</p>
+               <p>And further for the ſame end, and to prevent the offendours lying long in priſon, it ſhall be lawfull for the Governor, with one of the Counſell, or any two of the Aſſiſtants or Iudges, to ſee execution done upon any offenders for any crime that is not capitall, according to the Lawes eſtabliſhed: Yet ſtill reſerving a liberty of Appeale from them to the Court, and from an Inferiour Court to an Higher Court.</p>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="3" facs="tcp:62776:3"/>
+               <head>CHAP. II. <hi>Of the free Burgeſſes and free Inhabitants.</hi>
+               </head>
+               <p n="1">1 FIrſt, All the free Burgeſſes excepting ſuch as were admitted men before the eſtabliſhment of Churches in the Countrey, ſhall bee received and admitted out of the members of ſome or others of the Churches in the Countrey, ſuch Churches as are gathered or herafter ſhall be gathered with the conſent of other Churches already eſtabli<g ref="char:EOLhyphen"/>ſhed in the Countrey, and ſuch members as are admitted by their own Church unto the Lords-Table.</p>
+               <p n="2">2 Theſe free Burgeſſes ſhall have power to chooſe in their owne Townes fit and able men out of themſelves, to be the ordinary Iudges of in feriour Cauſes, in their own Town, and againſt the approach of the Generall Court to chooſe two or three, as their Deputies and Committees, to joyne with the Governour and Aſſiſtants of the whole Countrey, to make up and conſtitute the Generall Court.</p>
+               <p n="3">3 This Generall Court ſhall have power,</p>
+               <p>Firſt, By the Warrant of the Governor or deputy Governor, to aſ<g ref="char:EOLhyphen"/>ſemble once every quarter or halfe a yeare or oftner, a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the affaires of the Countrey ſhall require, and to ſit together till their affaires bee diſpatched.</p>
+               <p n="2">2 To call the Governour and all the reſt of the publike Magiſtrates and Officers into place, and to call them alſo to accoumpt for the breach of any Laws eſtabliſhed, or other miſdeameanour, and to cen<g ref="char:EOLhyphen"/>ſure them as the quality of the fact may require.</p>
+               <p>Thirdly, To make and repeale Laws.</p>
+               <p>Fourthly, To diſpoſe of all Laws in the Countrey, and to aſſigne them to ſeverall Towns or perſons, as ſhall be thought requiſite.</p>
+               <p>Fifthly, To impoſe a leavy of moneys, for the publike ſervice of the Common-wealth, as ſhall be thought requiſite for the proviſion and protection of the whole.</p>
+               <p>Sixthly, To heare and determine all cauſes, wherein appeale ſhall be made unto them, or which they ſhall ſee cauſe to aſſume, into their own cogniſance or judicature.</p>
+               <p>Seventhly, To aſſiſt the Governors and Counſellors in the main<g ref="char:EOLhyphen"/>tenance
+<pb n="4" facs="tcp:62776:4"/>of the purity and unity of Religion, and accordingly to ſet forward and uphold all ſuch good cauſes as ſhall be thought fit, for that end, by the advice with conſent of the Churches, and to repreſſe the contrary.</p>
+               <p>Eighthly, In this generall Court nothing ſhall be concluded but with Common conſent of the greater part of the Governors, or Aſſi<g ref="char:EOLhyphen"/>ſtants, together with the greater part of the Deputies of the Towns, unleſſe it be in election of Officers, where the liberty of the people is to be preferred, or in judging matters of offence againſt the Law, wherein both parties are to ſtand to the direction of the Law.</p>
+               <p>Ninthly, All the houſholder of every Town, ſhal be accompted as the free Inhabitants of the Countrey, and accordingly ſhall enjoy freedome of Commerce and Inheritance of ſuch lands, as the generall Court or the ſeverall Townes wherein they dwell ſhall allot unto them, after they have taken an Oath, or given other ſecurity to be true and faithfull to the State, and ſubject to the good and wholeſome Laws eſtabliſhed in the Countrey by the generall Court.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III. <hi>Of the protection and proviſion of the Countrey.</hi>
+               </head>
+               <p n="1">1 FIrſt, A Law to be made (if it be not made already) for the tray<g ref="char:EOLhyphen"/>ning of all men in the Countrey fit to beare armes unto the ex<g ref="char:EOLhyphen"/>erciſe of military Diſcipline; and withall another Lawe to be made for the maintenance of military Officers and Forts.</p>
+               <p n="2">2 Becauſe fiſhing is the chiefe ſtaple commodity of the Countrey, therefore all due encouragement to be given, unto ſuch hands as ſhall ſet forwards the trade of fiſhing; and for that end a Law to be made. That whoſoever ſhall apply themſelves to ſet forward the trade of fiſhing, as Fiſher-men, Marriners and Ship wrights, ſhall be allowed, man for man, or ſome or other of the Labourers of the Countrey, to plant and to reape for them, in the ſeaſon of the yeare, at the publike charge of the Common-wealth, for the ſpace of theſe ſeven yeares next enſuing; and ſuch Labourers to be appointed and paid by the Treaſurer of the Common-wealth.</p>
+               <p n="3">3 Becauſe no Common-wealth can maintaine either their authori<g ref="char:EOLhyphen"/>ty at home, or their honour and power abroad, without a ſufficient Treaſury: a Law therefore to be made for the electing and furniſh<g ref="char:EOLhyphen"/>ing
+<pb n="5" facs="tcp:62776:4"/>of the Treaſury of the Common-wealth, which is to be ſupplyed and furniſhed.</p>
+               <p n="1">1 By the yearely payment.</p>
+               <p>Firſt, Of one penny, or halfe penny an Acre of Land to be occupi<g ref="char:EOLhyphen"/>ed throughout the Countrey.</p>
+               <p>Land in common by a Towne to be paid for out of the Stocke or Treaſury of the ſame Town.</p>
+               <p>Secondly, Of a penny for every beaſt, Horſe or Cow.</p>
+               <p>Thirdly, Of ſome proportionable rate upon Marchants.</p>
+               <p>This rate to be greater or leſſe as ſhall be thought fit.</p>
+               <p n="2">2 By the payment of a barrell of Gun-powder, or ſuch goods, or o<g ref="char:EOLhyphen"/>ther munitions out of every ſhip, that bringeth forraine Commo<g ref="char:EOLhyphen"/>dities.</p>
+               <p n="3">3 By fines and mulcts upon treſpaſſers beaſts.</p>
+               <p n="4">4 A Treaſurer to be choſen by the free Burgeſſes out of the Aſſi<g ref="char:EOLhyphen"/>ſtants, who ſhall receive and keep the Treaſury and make disburſe<g ref="char:EOLhyphen"/>ments out of it, according to the direction of the generall Court, or of the Governor or Counſellors, whereof they are to give an accompt at the generall Court.</p>
+               <p>It ſhall pertaine alſo to the Office of the Treaſurer, to ſurvey and overſee all the munitions of the Countrey, as Cannons, Culvering, Muskets, Powder, Match, Bullets, and to give accompt thereof to the Governor and Counſell.</p>
+               <p n="5">5 A Treaſury alſo or Magazin, or Storehouſe to be erected, and furniſhed in every Town, as <hi>Deut.</hi> 14.28. diſtinct from the Trea<g ref="char:EOLhyphen"/>ſury of the Church, that proviſion of Corne and other neceſſaries, may be laid up at the beſt hand, for the reliefe of ſuch poore, as are not members of the Church; and that out of it ſuch Officers may be main<g ref="char:EOLhyphen"/>teined, as Captaines and ſuch like, who do any publike ſervice for the Town: But chiefly this Treaſury will be requiſite for the preſerving of the livelyhood of each Town within it ſelfe.</p>
+               <p>That in caſe the Inheritance of the Lands belong to any Towne, come to be alienated from the Towneſmen, which may unavoydably fall out: Yet a ſupply may be had and made to the livelyhood of the Town by a reaſonable Rent charge, upon ſuch alienations laid by the common conſent of the Land-owners and Towneſmen, and to be paid unto the Treaſury of the Town.</p>
+               <p>This Treaſury to be ſupplyed.</p>
+               <p n="1">1 Firſt, By the yearely payment of ſome ſmall rate upon Acres of Land.</p>
+               <pb n="6" facs="tcp:62776:5"/>
+               <p n="2">2 By fines or amerciaments put upon treſpaſſours beaſts.</p>
+               <p>A Town Treaſurer to be appointed for the overſight and ordering of this choſen out of the free Burgeſſes of the ſame Town, who is to diſpoſe of things under his charge, according to the directions of the Iudges of the Towne, and to give accompt at the Townes Court to the Iudges and free Burgeſſes of the Town or to ſome elected by them.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. IV. <hi>Of the right of Inheritance.</hi>
+               </head>
+               <p n="1">1 FIrſt, Foraſmuch as the right of diſpoſals of the Inheritance of all Lands in the Countrey, lyeth in the Generall Court, what<g ref="char:EOLhyphen"/>ſoever Lands are given and aſſigned by the Generall Court, to any Town or perſon ſhall belong and remaine as right of Inheritance to ſuch Townes and their ſucceſſors, and to ſuch perſons and to their heires and Aſſignes as their propriety for ever.</p>
+               <p>Whatſoever Lands belong to any Town, ſhall be given and aſſi<g ref="char:EOLhyphen"/>gned by the Town or by ſuch Officers therein, as they ſhall appoint unto any perſon, the ſame ſhall belong and remaine, unto ſuch perſon and his heires and aſſignes as his proper right for ever.</p>
+               <p n="3">3 And in dividing of Lands to the ſeverall perſons in each Town, as regard is to be had partly to the number of the perſons in family: To the more aſſigning the greater allotment, to the fewer leſſe, and partly by the number of beaſts,
+<note place="margin">Num. 26.53 54. Num 35.3.</note> by the which a man is fit to occupy the Land aſſigned to him, and ſubdue it: Eminent reſpect (in this caſe may be given to men of eminent quality and deſcent) in aſſigning unto them more large and honorable accommodations, in regard of their great disburſements to publike charges.</p>
+               <p n="4">4 Foraſmuch as all Civill affaires are to be adminiſtred and orde<g ref="char:EOLhyphen"/>red, ſo as may beſt conduce to the upholding and ſetting forward of the worſhip of God in Church fellowſhip. It is therefore ordered, that whereſoever the Lands of any mans Inheritance ſhall fall, yet no man ſhall ſet his dwelling houſe above the diſtance of halfe a mile or a mile at the furtheſt, from the meeting of the Congregation, where the Church doth uſually aſſemble for the worſhip of God.</p>
+               <pb n="7" facs="tcp:62776:5"/>
+               <p n="5">5 Inheritances are to deſcend naturally to the next of kinne,
+<note place="margin">Num. 27.7. to 11.</note> ac<g ref="char:EOLhyphen"/>cording to the Law of Nature, delivered by God.</p>
+               <p n="6">6 If a man have more Sonnes than one,
+<note place="margin">Deu. 21.17</note> then a double portion to be aſſigned, and bequeathed to the eldeſt Son, according to the Law of Nature, unleſſe his own demerit do deprive him of the dignity of his Birth-right.
+<note place="margin">1 Chr. 5.1<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note>
+               </p>
+               <p n="7">7 The will of a Teſtatour, is to be approved, or diſallowed by the Court of Governours, and Aſſiſtants, or by the Court of Iudges in each Towne; yet not to be diſallowed by the Court of Governours, unleſſe it appeare either to be counterfeit or unequall, either againſt the Law of God, or againſt the publike weale, or againſt the due right of the Legatours.</p>
+               <p n="8">8 As God in old time, in the Common-wealth of <hi>Iſraell,</hi> forbad the alienation of Lands from one Tribe to another, ſo to prevent the like inconvenience in the alienation of Lands, from one Towne to ano<g ref="char:EOLhyphen"/>ther it were requiſite to be ordered.</p>
+               <p n="1">1 Firſt, that no free Burgeſſe, or free Inhabitant of any Town ſhall ſell the Land allotted to him in the Towne, (unleſſe the free Burgeſſe of the Towne give conſent unto ſuch ſale, or refuſe to give due price anſwerable to what other offer without fraud) but to ſome one or other of the free Burgeſſes, or free Inhabitants of the ſame Towne.</p>
+               <p n="2">2 That if ſuch Lands be ſould to any others, the ſale ſhall be made with reſervation of ſuch a rent charge to be paid to the Town Stock, or Treaſury of the Towne, as either the former occupiers of the Land were wont to pay towards all the publike charges thereof; whether in Church or Town, or at leaſt after the rate of three ſhillings the acre or ſome ſuch like proportion, more or leſſe, as ſhall be thought fit.</p>
+               <p n="3">3 That if any free Burgeſſes, or free Inhabitants of any Towne, or the heire of any of their Lands, ſhal remove their dwelling from one Towne to another, none of them ſhall carry away the whole benefit of the Lands which they poſſeſſed, from the Townes whence they remove: But if they ſhall keepe the right of Inheritance, in their own hands, &amp; not ſell it as before, then, they ſhall reſerve a like proportion or Rent charge out of their Land, to be paid to the publike Treaſury of the Towne, as hath beene wont to be paid out of it to the <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ublike charges of the Town and Church, or at leaſt after the rate of three or five ſhillings an Acre, as before.</p>
+               <p n="4">4 That if the Inheritance of a free Burgeſſe, or free Inhabitants of any Town fal to his daughters, as it wil do for defect of heires males, that then if ſuch daughters doe not marry to ſome of the Inhabitants
+<pb n="8" facs="tcp:62776:6"/>of the ſame Towne where their Inheritance lyeth, nor ſell their In<g ref="char:EOLhyphen"/>heritance to ſome of the ſame Towne as before, that then they reſerve a like proportion of rent charge out of their Lands to be paid to the publike Treaſury of the Towne, as hath beene wont to be paid out of them, to the publike charge of the Towne and Church; or at leaſt after the rate of three or five ſhillings an Acre, provided alwayes that nothing be payed to the maintenance of the Church out of the Treaſury of the Church or Towne, but by the free conſent and di<g ref="char:EOLhyphen"/>rection of the free Burgeſſes of the Towne.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>CHAP. V. <hi>Of Commerce.</hi>
+               </head>
+               <p n="1">1 FIrſt it ſhall be lawfull for the Governour with one or more of the Counſell, to appoint a reaſonable rate of prizes upon all ſuch commodities as are out of the Ships, to be bought and ſould in the Countrey.</p>
+               <p n="2">2 In trucking or trading with the <hi>Indians</hi> no man ſhall give them for any commodity of theirs, Silver or Gold, or any weapons of war, either Guns or Gunpowder, nor Sword, nor any other munition, which might come to be uſed againſt our ſelves.</p>
+               <p n="3">3 To the intent that all oppreſſion in buying and ſelling may be avoyded, it ſhall be lawfull for the Iudges in every Towne, with the conſent of the free Burgeſſes to appoint certaine ſelect men, to ſet rea<g ref="char:EOLhyphen"/>ſonable rates upon all comodities, and proportionably to limmit the wages of workemen and labourers, and the rates agreed upon by them, and ratified by the Iudges, to bind all the Inhabitants of the Towne. The like courſe to be taken by the Governour, and Aſſiſtants, for the rating of prizes throughout the Countrey, and all to be con<g ref="char:EOLhyphen"/>firmed if need be by the generall Court.</p>
+               <p n="4">4 Iuſt waights and ballances to be kept betweene buyers and ſel<g ref="char:EOLhyphen"/>lers,
+<note place="margin">Lev. 19.35.36. Pro. 11.1. and 16.11. and 20.10. Deu. 24 10 11, 12, 13. Exod. 22.26, 27.</note> and for default thereof the profit ſo wickedly and corruptly gotten, with as much more added thereto, is to be forfeited to the publike Treaſury of the Common-wealth.</p>
+               <p n="5">5 If any borrow ought of his neighbour upon a pledge, the lender ſhall not make choyce of what pledge he will have, nor take ſuch pledge as is of dayly neceſſary uſe unto the debtor, or if he do take it, he ſhall reſtore it againe the ſame day.</p>
+               <pb n="9" facs="tcp:62776:6"/>
+               <p n="6">6 No increaſe to be taken of a poore brother or neighbour,
+<note place="margin">Ex. 22.25. Lev. 25.36 37.</note> for any thing lent unto him.</p>
+               <p n="7">7 If borrowed goods be loſt or hurt in the owners abſence, the borrower is to make them good, but in the owners preſence wherein he ſeeth his goods no other wiſe uſed than with his conſent, the bor<g ref="char:EOLhyphen"/>rower ſhall not make them good: If they were hired,
+<note place="margin">Ex. 22.14, 15.</note> the hire is to be paid and no more.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>CHAP. VI. <hi>Of Treſpaſſes.</hi>
+               </head>
+               <p n="1">1 IF a man's Swine or any other beaſt, or a fire kindled,
+<note place="margin">Ex. 22.5, 6,</note> breake out into another mans field or corne, he ſhal make full reſtitution both of the dammage made by them, and of the loſſe of time, which others have had in carrying ſuch Swine or beaſts unto the owners, or to the fould.</p>
+               <p>But if a man put his beaſts or Swine into anothers field, reſtituti<g ref="char:EOLhyphen"/>on is to be made of the beſt of his owne, though it were much better than that which were deſtroyed or hurt.</p>
+               <p n="2">2 If a man kills another mans beaſt, or digge and open a pit,
+<note place="margin">Lev. 24.18 Ex 21.34.</note> and leave it uncovered, and a beaſt fall into it; he that killed the beaſt, or the owner of the pit ſhall make reſtitution.</p>
+               <p n="3">3 If any man's beaſt kill the beaſt of another,
+<note place="margin">Exo. 21.35</note> the owner of the beaſt ſhall make reſtitution.</p>
+               <p n="4">4 If a man's Oxe or other beaſt,
+<note place="margin">Ex. 21.28, 29, 30, 31.</note> gore or bite and kill a man or a woman, whether Child or of riper age, the beaſt ſhall be killed, and no benefit of the dead beaſt reſerved to the owner, but if the Oxe or beaſt were wont to puſh or bite in times paſt, and the owner hath beene tould it, and hath not kept him in; then both the Oxe or beaſt ſhall be forfeited and killed, and the owner alſo put to death, or fined to pay what the Iudges and the perſons dampnified ſhall lay on him.</p>
+               <p n="5">5 If a man deliver goods to his neighbour to keepe, and they be ſaid to be loſt or ſtolne from him, the keeper of the goods ſhall be put to his oath touching his own innocency, which if he take, &amp; no evi<g ref="char:EOLhyphen"/>dence appeare to the contrary, he ſhall be quit,
+<note place="margin">Ex <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.2, 1<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 1.</note> but if he be found falſe or unfaithfull, he ſhall pay double unto his neighbour.</p>
+               <p>But if a man take hire for the goods committed to him, and they be ſtolne, the keeper ſhall make reſtitution: But if the beaſt ſo kept for hire dye or be hurt, or be driven away, no man ſeeing it, then
+<pb n="10" facs="tcp:62776:7"/>oath ſhall be taken of the keeper, that it was without his default, and it ſhall be accepted: but if the beaſt be torne in pieces, and a peece be brought for witneſſe, it excuſeth the keeper.</p>
+            </div>
+            <div n="7" type="chapter">
+               <head>CHAP. VII. <hi>Of Crimes.</hi>
+               </head>
+               <p>ANd firſt, of ſuch as deſerve capitall puniſhment, or cutting off from a mans people, whether by death or baniſhment.</p>
+               <p n="1">1 Firſt,
+<note place="margin">
+                     <hi>Blaſphemy.</hi> Lev. 24, 11 to 16. <hi>Idolatry.</hi> Deu. 13.10 15, 16. <hi>Witchcraft.</hi> Ex. 22:18.20.27. Lev. 19 31. <hi>Conſulters with Witch<g ref="char:EOLhyphen"/>es. Hereſie. Zac.</hi> 13.3. <hi>Falſe wor<g ref="char:EOLhyphen"/>ſhip. Ex.</hi> 32.27, 28 <hi>Scandalous livers.</hi> 1 Cor. 5.5. <hi>Revilers <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>f Religion.</hi>
+                  </note> Blaſphemy which is a curſing of God by Atheiſme or the like, to be puniſhed with death.</p>
+               <p n="2">2 Idolatry to be puniſhed with death.</p>
+               <p n="3">3 Witchcraft which is fellowſhip by covenant with a familiar Spirit to be puniſhed with death.</p>
+               <p n="4">4 Conſulters with Witches not to be tollerated, but either to be cut off by death, or by baniſhment.</p>
+               <p n="5">5 Hereſie which is the maintenance of ſome wicked errors, over<g ref="char:EOLhyphen"/>throwing the foundation of Chriſtian Religion, which obſtinacy if it be joyned with endeavour, to ſeduce others thereunto to be puni<g ref="char:EOLhyphen"/>ſhed with death: becauſe ſuch an Hereticke no leſſe than an Idolater ſeeketh to thruſt the ſoules of men from the Lord their God.</p>
+               <p n="6">6 To worſhip God in a molten or graven Image, to be puniſhed with death.</p>
+               <p n="7">7 Such members of the Church, as doe wilfully reject to walke after due admonition, and conviction, the Churches eſtabliſh<g ref="char:EOLhyphen"/>ment, and their chriſtian admonition and cenſures, ſhall be cut off by baniſhment.</p>
+               <p n="8">8 Whoſoever ſhall revile the Religion and Worſhip of God, and the Government of the Church as it is now eſtabliſhed, to be cut off by baniſhment.</p>
+               <p n="9">9 Wilfull perjury,
+<note place="margin">Wilfull per<g ref="char:EOLhyphen"/>jury.</note> whether before the judgement ſeat or in pri<g ref="char:EOLhyphen"/>vate conference, to be puniſhed with death.</p>
+               <p n="10">10 Raſh perjury whether in publike or in private,
+<note place="margin">Raſh per. jury.</note> to be puniſhed with baniſhme<g ref="char:cmbAbbrStroke">̄</g>t, juſt it is that ſuch a mans name ſhould be cut off from his people, who prophans ſo groſly the name of God before his people</p>
+               <p n="11">11 Profaning of the Lords day,
+<note place="margin">
+                     <hi>Sabbath breakers.</hi> Num, 15.32</note> in a careleſſe and ſcornefull neglect or contempt thereof to be puniſhed with death.</p>
+               <pb n="11" facs="tcp:62776:7"/>
+               <p n="12">12 To put in practice the betraying of the Countrey,
+<note place="margin">Treaſon.</note> or any prin<g ref="char:EOLhyphen"/>cipall fort therein to the hand of any forraigne State, <hi>Spaniſh, French, Dutch,</hi> or the like: contrary to the alleageance we ow,
+<note place="margin">
+                     <hi>Vnreve<g ref="char:EOLhyphen"/>rend to Ma<g ref="char:EOLhyphen"/>giſtrates.</hi> Num 12.1 14, 15. <hi>Reviling the Magistrate. Rebellion</hi> &amp;c. 1 King. 22.8, 9. &amp; 44. <hi>Rebellious Children.</hi> Deu. 21.18, 19.20. Ex. 21.15 Lev 20.9. <hi>Murther.</hi> Ex. 21.12, 13. Num. 35.16, 17, 18. to 33. Gen. 9.6. <hi>Adultery.</hi> Lev. 20 10 Deu. 22.22, 23. Deu 24.25 26. <hi>Inceſt.</hi> Lev. 20.11, 12, 19.<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>0. <hi>Sodomy. Buggery. Pollution</hi> &amp;c. Lev. 20.18.19. <hi>Whordome.</hi> Ex. 21.16. Deu. 24.7. <hi>Man-ſtea<g ref="char:EOLhyphen"/>ling. Falſe wit<g ref="char:EOLhyphen"/>neſſe.</hi>
+                  </note> and profeſſe to our Dread Soveraign Lord King <hi>Charles,</hi> His Heires and Succeſſors; whilſt he is pleaſed to protect us as his loyal ſubjects, to be puniſhed with death.</p>
+               <p n="13">13 Vnreverend and diſhonorable carriage to Magiſtrates, to be pu<g ref="char:EOLhyphen"/>niſhed with baniſhment for a time, till they acknowledge their fault, and profeſſe reformation.</p>
+               <p n="14">14 Reviling of the Magiſtrates in higheſt rancke amongſt us, to wit of the Governours and Counſell to be puniſhed with death.</p>
+               <p n="15">15 Rebellion, Sedition, or Inſurrection, by taking up armes againſt the preſent Government eſtabliſhed in the Country to be puniſhed with death.</p>
+               <p n="16">16 Rebellious children whether they continue in riot or drunken<g ref="char:EOLhyphen"/>neſſe after due correction from their parents, or whether they curſe or ſmite their Parents, to be put to death.</p>
+               <p n="17">17 Murther which is a wilfull man-ſlaughter, not in a mans neceſ<g ref="char:EOLhyphen"/>ſary and juſt defence, nor caſually committed, but out of hatred or cru<g ref="char:EOLhyphen"/>elty, to be puniſhed with death.</p>
+               <p n="18">18 Adultery which is the defiling of the marriage bed, to be puni<g ref="char:EOLhyphen"/>ſhed with death. Defiling of a woman eſpouſed, is a kind of Adultery, and puniſhable by death, of both parties; but if a woman be forced, then by the death of the man only.</p>
+               <p n="19">19 Inceſt, which is the defiling of any neer of kin, within the degrees prohibited in <hi>Leviticus,</hi> to be puniſhed with death.</p>
+               <p n="20">20 Vnnaturall filthineſſe to be puniſhed with death, whether So<g ref="char:EOLhyphen"/>domy, which is carnall fellowſhip of man with man, or woman with woman.</p>
+               <p>Or Buggery which is carnall fellowſhip of man or woman, with beaſts or fowles.</p>
+               <p n="21">21 Pollution of a woman known to be in her flowers to be puni<g ref="char:EOLhyphen"/>ſhed with death.</p>
+               <p n="22">22 Whordome of a maiden in her fathers houſe, kept ſecret till af<g ref="char:EOLhyphen"/>ter her marriage with another, to be puniſhed with death.</p>
+               <p n="23">23 Man-ſtealing to be puniſhed with death.</p>
+               <p n="24">24 Falſe witneſſe bearing to be puniſhed with death.</p>
+            </div>
+            <div n="8" type="chapter">
+               <pb n="12" facs="tcp:62776:8"/>
+               <head>CHAP. VIII. <hi>Of other Crimes leſſe hainous ſuch as are to be puniſhed with ſome Corporall puniſhment or Fine.</hi>
+               </head>
+               <p n="1">1 FIrſt raſh and prophane ſwearing and curſing to be puniſhed.</p>
+               <p n="1">1 Firſt, with loſſe of honour, or office, if he be Magiſtrate, or Officer: meet it is, their name ſhould be diſhonoured who diſhonour Gods name.</p>
+               <p n="2">2 With loſſe of freedome.</p>
+               <p n="3">3 With diſability to give Teſtimony.</p>
+               <p n="4">4 With corporall puniſhment either by ſtripes, or by branding him with a hot iron, or boring through the tongue, who hath bored and pierced Gods name.</p>
+               <p n="2">2 Drunkenneſſe, as transforming Gods Image into a beaſt, is to be puniſhed with the puniſhment of beaſts:
+<note place="margin">Pro. 26.3.</note> A whip for the ho<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e, and a rod for the fooles backe.</p>
+               <p n="3">3 Forcing of a maid or a rape is not to bee puniſhed with death by Gods Law, but</p>
+               <p n="1">1 Firſt, with Fine or penalty to the father of the maid.</p>
+               <p n="2">2 With marriage of the maide defiled,
+<note place="margin">Deut. 22 <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 9.</note> if ſhee and her father conſent.</p>
+               <p n="3">3 With corporall puniſhment of ſtripes for his wrong, as a reall ſlander: And it is worſe to make a whore, than to ſay one is a whore.</p>
+               <p n="4">4 Fornication to be puniſhed.
+<note place="margin">Ex. 22.16.</note>
+               </p>
+               <p n="1">1 Firſt, with marriage of the maide, or giving her a ſufficient Dowrie.</p>
+               <p n="2">2 Secondly, with ſtripes though fewer, from the equity of the former Cauſe.</p>
+               <p n="5">5 Mayming or wounding of a freeman, whether free Burgeſſe, or free Inhabitant, to be puniſhed with a Fine; to pay</p>
+               <p>Firſt,
+<note place="margin">Ex. 22.18, 19. Lev. 24.19, 20.</note> for his cure.</p>
+               <p>Secondly, for his loſſe,</p>
+               <p>And with loſſe of member for member, or ſome valuable re<g ref="char:EOLhyphen"/>compence.</p>
+               <p>But if it be but the mayming or wounding of a ſervant,
+<note place="margin">Ex. 21.26.27.</note> the ſer- is to go forth free from ſuch a ſervice.</p>
+               <pb n="13" facs="tcp:62776:8"/>
+               <p n="6">6 If a man ſteale a beaſt, if it be found in his hand,
+<note place="margin">Ex. 22.4, &amp; 1, 22:3.</note> he ſhall make re<g ref="char:EOLhyphen"/>ſtitution two for one; if it be kild &amp; ſould, reſtitution is to be made, of five Oxen for one: If the Theefe be not able to make reſtitution, then he to be ſould by the Magiſtrate for a ſlave, till by his labour he may, make due reſtitution.</p>
+               <p n="7">7 If a Theefe bee found breaking a houſe by night, if he be ſlaine,
+<note place="margin">Ex. 22.2, 3</note> his ſmiter is guiltleſſe, but in the day time, the Theefe is to make full reſtitution, as before, or if he be not able, then to be ſould as before.</p>
+               <p n="8">8 Slanders are to be puniſhed,</p>
+               <p>Firſt, with a publike acknowledgment as the ſlander was publike.</p>
+               <p>Secondly, by mulets or Fine of Money, when the ſlander bringeth damage.</p>
+               <p>Thirdly, by ſtripes if the ſlander be groſſe, or odious, againſt ſuch perſons whom a man ought to honour and cheriſh: whether they be his Superiours, or in ſome degrees of equality with himſelfe and his wife.</p>
+            </div>
+            <div n="9" type="chapter">
+               <head>CHAP. IX. <hi>Of the triall of Cauſes, whether Civill or Criminall, and the execu<g ref="char:EOLhyphen"/>tion of Sentence.</hi>
+               </head>
+               <p n="1">1 IN the tryall of all Cauſes, no judgement ſhall paſſe,
+<note place="margin">Deu. 19.10 17.6.</note> but either upon confeſſion of the party, or upon the Teſtimony of two witneſſes.</p>
+               <p n="2">2 Triall by judges ſhall not be denied, where either the delinquent requireth it in cauſes Criminall, or the Plaintife or Defendant in Civill cauſes, partly to prevent ſuſpition of partiality, of any Magi<g ref="char:EOLhyphen"/>ſtrates in the Court.</p>
+               <p n="3">3 The Iurours are not to be choſen by any Magiſtrates, or Officers, but by the free Burgeſſes of each Town, as can give beſt light, to the Cauſes depending in Court, and who are leaſt obnoxious to ſuſpition of partiality: And the Iurours then choſen, to be nominated to the Court, and to attend the ſervice of the Court.</p>
+               <p n="4">4 The ſentence of judgement given upon Criminall cauſes, and perſons ſhall be executed in the preſence of the Magiſtrates, or ſome of them at leaſt.</p>
+               <pb n="14" facs="tcp:62776:9"/>
+               <p n="5">5 No free-man whether free-Burgeſſe, or free-Inhabitant to be im<g ref="char:EOLhyphen"/>priſoned, but either upon conviction or at leaſt probable ſuſpition, or ſome crime formerly mentioned, and the cauſe of his impriſonment, be declared and tried at the next Court following, at the furtheſt.</p>
+               <p n="6">6 Stripes are not to be inflicted, but when the crimes of the offen<g ref="char:EOLhyphen"/>dour are accompanied with childiſh or brutiſh folly, or with lewd filthineſſe, or with ſtubborne inſolency, or with bruitiſh cruelty, or with idle vagrancy: But whenſtripes are due, not above 40 are to be inflicted.</p>
+            </div>
+            <div n="10" type="chapter">
+               <head>CHAP. X. <hi>Of cauſes Criminall between our People and Forraine Nations.</hi>
+               </head>
+               <p n="1">1 IN caſe any of our people ſhould do wrong to any of another Nati<g ref="char:EOLhyphen"/>on,
+<note place="margin">Mat. 7 12.</note> upon complaint made to the Governour or ſome other of the Counſell or Aſſiſtants, the fact is dilligently to be inquired into, and being found to be true, reſtitution is to be made of the goods of of<g ref="char:EOLhyphen"/>fendors, as the caſe ſhall require, according to the quality of the crime.</p>
+               <p n="2">2 In caſe the people of another Nation have done any important wrong,
+<note place="margin">Deuter. 20 10, 11. 2 Sam. 20.18, 19.</note> to any of ours, right is firſt to be demanded of the Gover<g ref="char:EOLhyphen"/>nor of that people, and Iuſtice upon the malefactors, which if it bee granted and performed, then no breach of peace to follow.</p>
+               <p n="3">3 If right and Iuſtice be denied, and it will not ſtand with the ho<g ref="char:EOLhyphen"/>nour of God and ſafety of our Nation, that the wrong be paſſed over, then war is to be undertaken and denounced.</p>
+               <p n="4">4 Some Miniſter is to be ſent forth to go along with the Army for their inſtruction and incouragement.
+<note place="margin">Deut. 20.2, 3, 4.</note>
+               </p>
+               <p n="5">5 Men betrothed and not married,
+<note place="margin">Deut. 20.5, 6, 7, 8. &amp; 24.5.</note> or newly married, or ſuch as have newly built or planted, and not received the fruits of their La<g ref="char:EOLhyphen"/>bours, and ſuch as are fainthearted men, are not to be preſſed or forc'd againſt their wils to go forth to wars.</p>
+               <p n="6">6 Captaines are to be choſen by the Officers.</p>
+               <p n="7">7 All wickedneſſe is to bee removed out of the Campe by ſevere diſcipline.
+<note place="margin">Deut. 23.9.14.</note>
+               </p>
+               <p n="8">8 And in war from men of a corrupt or falſe Religion,
+<note place="margin">2 Chro. 25 7.8.</note> is not to be accepted, much leſſe ſought for.</p>
+               <pb n="15" facs="tcp:62776:9"/>
+               <p n="9">9 Women, eſpecially ſuch as have not lyen by man,
+<note place="margin">Deu. 20.14</note> little children <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>erved for ſpoyle.</p>
+               <p n="10">10 Fruit Trees,
+<note place="margin">Deut. 20.19.20.</note> whilſt they may bee of uſe for meat to our owne Souldiers, are not to be cut down or deſtroyed, and conſequently no Corne.</p>
+               <p n="11">11 The ſpoyles got by warre are to be divided into two pars,
+<note place="margin">Num. 31.21.</note> be<g ref="char:EOLhyphen"/>tween the Souldiers and the Common-wealth that ſent them forth.</p>
+               <p n="12">12 A Tribute from both is to bolevved to the Lord,
+<note place="margin">Num. 31.18. &amp; 47.</note> and given to the Treaſury of the Church, a fift part out of the Common-wealth's part, and a 500 part out of the Souldiers part.</p>
+               <p n="13">13 If all the Souldiers return again in peace, not one lacking, it is acceptable to the Lord, if they offer over and above the former Tri<g ref="char:EOLhyphen"/>bute, a voluntary oblation unto the Treaſury of the Church for a me<g ref="char:EOLhyphen"/>moriall of the Redemption of their lives, by the eſpeciall providence and Salvation of the Lord of Hoaſts.</p>
+               <list>
+                  <item>The Lord is our Iudge,</item>
+                  <item>The Lord is our Law-giver,
+<note place="margin">Iſay. 33.22.</note>
+                  </item>
+                  <item>The Lord is our King, He will ſave us.</item>
+               </list>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="table_of_contents">
+            <pb facs="tcp:62776:10"/>
+            <head>The Table of the Chapters.</head>
+            <list>
+               <item>
+                  <label>CHAP. I.</label> 
+                  <hi>Of Magiſtrates.</hi> Page 1</item>
+               <item>
+                  <label>CHAP. II.</label> 
+                  <hi>Of the free Burgeſſes and free Inhabitants.</hi> Page <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>
+                  <label>CHAP. III.</label> 
+                  <hi>Of the protection and proviſion of the Countrey.</hi> Page <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>
+                  <label>CHAP. IV.</label> 
+                  <hi>Of the right of Inheritance.</hi> Page <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>
+                  <label>CHAP. V.</label> 
+                  <hi>Of Commerce.</hi> Page 8</item>
+               <item>
+                  <label>CHAP. VI.</label> 
+                  <hi>Of Treſpaſſes.</hi> Page 9</item>
+               <pb facs="tcp:62776:10"/>
+               <item>
+                  <label>CHAP. VII.</label> 
+                  <hi>Of Crimes.</hi> Page 10</item>
+               <item>
+                  <label>CHAP. VIII.</label> 
+                  <hi>Of other Crimes leſſe hainous ſuch as are to be puniſhed with ſome Corporall puniſhment or Fine.</hi> Page 12</item>
+               <item>
+                  <label>CHAP. IX.</label> 
+                  <hi>Of the triall of Cauſes, whether Civill or Criminall, and the execu<g ref="char:EOLhyphen"/>tion of Sentence.</hi> Page 13</item>
+               <item>
+                  <label>CHAP. X.</label> 
+                  <hi>Of the Cauſes Criminall betweene our People and Forraine Na<g ref="char:EOLhyphen"/>tions.</hi> Page 14</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
